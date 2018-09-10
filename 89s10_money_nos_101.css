@@ -74,6 +74,20 @@
                 text-align: right;
             }
 
+            .l1_number_add {
+                width: 50%;
+                color: #249A41;
+                font-size: 24px;
+                text-align: right;
+            }
+
+            .l1_number_sub {
+                width: 50%;
+                color: #D6030F;
+                font-size: 24px;
+                text-align: right;
+            }
+
             .l2_icon {
                 width: 4%;
                 text-align: center;
