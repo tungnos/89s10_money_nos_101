@@ -2,7 +2,7 @@
                 display: table;
                 margin: 0px;
                 border: none;
-                padding: 2px 20px;
+                padding: 5px 20px;
                 height: 28px;
                 width: 344px;
                 line-height: 100%;
@@ -39,7 +39,6 @@
 
             table.countthis td {
                 border: none;
-                overflow: hidden;
                 font-family: Cousine;
             }
 
@@ -70,6 +69,20 @@
 
             .l1_number {
                 width: 50%;
+                font-size: 24px;
+                text-align: right;
+            }
+
+            .l1_number_add {
+                width: 50%;
+                color: #249A41;
+                font-size: 24px;
+                text-align: right;
+            }
+
+            .l1_number_sub {
+                width: 50%;
+                color: #D6030F;
                 font-size: 24px;
                 text-align: right;
             }
