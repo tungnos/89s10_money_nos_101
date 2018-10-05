@@ -1,118 +1,118 @@
-            .normal {
-                display: table;
-                margin: 0px;
-                border: none;
-                padding: 5px 20px;
-                height: 28px;
-                width: 344px;
-                line-height: 100%;
-                vertical-align: middle;
-            }
+.normal {
+    display: table;
+    margin: 0px;
+    border: none;
+    padding: 5px 20px;
+    height: 28px;
+    width: 344px;
+    line-height: 100%;
+    vertical-align: middle;
+}
 
-            .overview {
-                display: table-cell;
-                margin: 0px;
-                border: none;
-                padding: 0px;
-                height: 100%;
-                width: 100%;
-                line-height: 24px;
-                vertical-align: middle;
-                font-size: 18px;
-                font-family: 'Saira';
-            }
+.overview {
+    display: table-cell;
+    margin: 0px;
+    border: none;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+    line-height: 24px;
+    vertical-align: middle;
+    font-size: 18px;
+    font-family: 'Saira';
+}
 
-            table.countthis {
-                margin: 0px;
-                border: none;
-                border-collapse: collapse;
-                padding: 0px;
-                height: 100%;
-                width: 100%;
-                table-layout: fixed;
-                /* line-height: 24px; */
-                vertical-align: middle;
-                /* font-size: 16px; */
-                /* font-family: 'Saira'; */
-                color: #3F82F8;
-            }
+table.countthis {
+    margin: 0px;
+    border: none;
+    border-collapse: collapse;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+    table-layout: fixed;
+    /* line-height: 24px; */
+    vertical-align: middle;
+    /* font-size: 16px; */
+    /* font-family: 'Saira'; */
+    color: #3F82F8;
+}
 
-            table.countthis td {
-                border: none;
-                font-family: Cousine;
-            }
+table.countthis td {
+    border: none;
+    font-family: Cousine;
+}
 
-            .material-icons.l1 {
-                font-size: 48px;
-                color: #3F82F8;
-            }
+.material-icons.l1 {
+    font-size: 48px;
+    color: #3F82F8;
+}
 
-            .material-icons.l2 {
-                font-size: 28px;
-                color: #3F82F8;
-            }
+.material-icons.l2 {
+    font-size: 28px;
+    color: #3F82F8;
+}
 
-            .material-icons.l3_add {
-                font-size: 18px;
-                color: #249A41;
-            }
+.material-icons.l3_add {
+    font-size: 18px;
+    color: #249A41;
+}
 
-            .material-icons.l3_sub {
-                font-size: 18px;
-                color: #D6030F;
-            }
+.material-icons.l3_sub {
+    font-size: 18px;
+    color: #D6030F;
+}
 
-            .l1_icon {
-                width: 15%;
-                text-align: center;
-            }
+.l1_icon {
+    width: 15%;
+    text-align: center;
+}
 
-            .l1_number {
-                width: 50%;
-                font-size: 24px;
-                text-align: right;
-            }
+.l1_number {
+    width: 50%;
+    font-size: 24px;
+    text-align: right;
+}
 
-            .l1_number_add {
-                width: 50%;
-                color: #249A41;
-                font-size: 24px;
-                text-align: right;
-            }
+.l1_number_add {
+    width: 50%;
+    color: #249A41;
+    font-size: 24px;
+    text-align: right;
+}
 
-            .l1_number_sub {
-                width: 50%;
-                color: #D6030F;
-                font-size: 24px;
-                text-align: right;
-            }
+.l1_number_sub {
+    width: 50%;
+    color: #D6030F;
+    font-size: 24px;
+    text-align: right;
+}
 
-            .l2_icon {
-                width: 4%;
-                text-align: center;
-            }
+.l2_icon {
+    width: 4%;
+    text-align: center;
+}
 
-            .l2_number {
-                width: 45%;
-                font-size: 18px;
-                text-align: right;
-            }
+.l2_number {
+    width: 45%;
+    font-size: 18px;
+    text-align: right;
+}
 
-            .l3_icon {
-                width: 8%;
-                text-align: center;
-            }
+.l3_icon {
+    width: 8%;
+    text-align: center;
+}
 
-            .l3_number_add {
-                width: 27%;
-                color: #249A41;
-                font-size: 16px;
-                text-align: right;
-            }
+.l3_number_add {
+    width: 27%;
+    color: #249A41;
+    font-size: 16px;
+    text-align: right;
+}
 
-            .l3_number_sub {
-                width: 27%;
-                color: #D6030F;
-                font-size: 16px;
-                text-align: right;
-            }
+.l3_number_sub {
+    width: 27%;
+    color: #D6030F;
+    font-size: 16px;
+    text-align: right;
+}
