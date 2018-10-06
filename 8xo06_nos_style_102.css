@@ -1,0 +1,38 @@
+.normal {
+    display: inline-block;
+    margin: 0px;
+    border: 1 px;
+    padding: 5px 20px;
+    height: 28px;
+    width: 344px;
+    line-height: 100%;
+    vertical-align: middle;
+}
+
+.overview {
+    display: table-cell;
+    margin: 0px;
+    border: 1 px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+    line-height: 24px;
+    vertical-align: middle;
+    font-size: 18px;
+    font-family: 'Saira';
+}
+
+table.countthis {
+    margin: 0px;
+    border: none;
+    border-collapse: collapse;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+    table-layout: fixed;
+    /* line-height: 24px; */
+    vertical-align: middle;
+    /* font-size: 16px; */
+    /* font-family: 'Saira'; */
+    color: #3F82F8;
+}
