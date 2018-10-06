@@ -24,8 +24,8 @@
     font-family: 'Saira';
 }
 
-.table_header {
-    display: table;
+.t_header {
+    display: table-cell;
     table-layout: fixed;
     margin: 0px;
     border: 1 px solid black;
