@@ -24,8 +24,11 @@
     font-family: 'Saira';
 }
 
+.card {
+    display: flex;
+}
 .card_info {
-    display: inline-block;
+    width: 200 px;
 }
 
 .card_number, .card_text {
@@ -47,6 +50,7 @@
 }
 
 .card_icon {
+    flex-grow: 1;
     font-size: 48px;
     color: #3F82F8;
     text-align: center;
