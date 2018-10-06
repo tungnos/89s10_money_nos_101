@@ -34,7 +34,7 @@
     vertical-align: middle;
 }
 .card_info {
-    width: 200 px;
+    width: 200px;
 }
 
 .card_number, .card_text {
@@ -44,15 +44,15 @@
 }
 
 .material-icons.card_icon {
-    font-size: 48 px;
+    font-size: 48px;
 }
 
 .card_number {
-    font-size: 48 px;
+    font-size: 48px;
 }
 
 .card_text {
-    font-size: 24 px;
+    font-size: 24px;
 }
 
 .card_icon {
