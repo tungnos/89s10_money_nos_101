@@ -26,6 +26,12 @@
 
 .card {
     display: flex;
+    margin: 0px;
+    border: 1 px solid black;
+    padding: 5px 20px;
+    height: 28px;
+    width: 344px;
+    vertical-align: middle;
 }
 .card_info {
     width: 200 px;
