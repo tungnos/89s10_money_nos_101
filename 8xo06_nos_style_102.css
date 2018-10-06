@@ -42,7 +42,8 @@
 
 .l1_icon, .l1_number, .l2_icon, .l2_number, .l3_icon, .l3_number_add, .l3_number_sub {
     display: table-cell;
-    font-family: 'Saira';
+    /* font-family: 'Saira'; */
+    vertical-align: middle;
 }
 
 .l1_icon, .l2_icon, .l3_icon {
