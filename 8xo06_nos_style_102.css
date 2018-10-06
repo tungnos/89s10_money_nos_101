@@ -1,6 +1,7 @@
 
 .normal {
     display: table;
+    table-layout: fixed;
     margin: 0px;
     border: 1 px;
     padding: 5px 20px;
