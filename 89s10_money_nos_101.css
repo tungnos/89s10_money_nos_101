@@ -1,7 +1,7 @@
 .normal {
     display: inline;
     margin: 0px;
-    border: none;
+    border: 1 px;
     padding: 5px 20px;
     height: 28px;
     width: 344px;
@@ -12,7 +12,7 @@
 .overview {
     display: table-cell;
     margin: 0px;
-    border: none;
+    border: 1 px;
     padding: 0px;
     height: 100%;
     width: 100%;
