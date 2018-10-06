@@ -1,5 +1,5 @@
 .normal {
-    display: inline-block;
+    display: table;
     margin: 0px;
     border: 1 px;
     padding: 5px 20px;
@@ -22,13 +22,14 @@
     font-family: 'Saira';
 }
 
-table.countthis {
+.countthis {
+    display: table-cell;
     margin: 0px;
     border: none;
     border-collapse: collapse;
     padding: 0px;
     height: 100%;
-    width: 100%;
+    /* width: 100%; */
     table-layout: fixed;
     /* line-height: 24px; */
     vertical-align: middle;
