@@ -24,18 +24,28 @@
     font-family: 'Saira';
 }
 
-.t_header {
-    display: table-cell;
-    /* table-layout: fixed;
-    margin: 0px;
-    border: 1 px solid black;
-    padding: 5px 20px;
-    height: 28px;
-    width: 344px;
-    line-height: 100%; */
-    background-color: #249A41;
-    color: #ffffff;
+.card_number, .card_text {
+    font-family: 'Saira';
     vertical-align: middle;
+    text-align: left;
+}
+
+.material-icons.card_icon {
+    font-size: 48 px;
+}
+
+.card_number {
+    font-size: 48 px;
+}
+
+.card_text {
+    font-size: 24 px;
+}
+
+.card_icon {
+    font-size: 48px;
+    color: #3F82F8;
+    text-align: center;
 }
 
 .material-icons.l1 {
