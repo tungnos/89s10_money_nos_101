@@ -1,5 +1,5 @@
 .normal {
-    display: inline;
+    display: inline-block;
     margin: 0px;
     border: 1 px;
     padding: 5px 20px;
