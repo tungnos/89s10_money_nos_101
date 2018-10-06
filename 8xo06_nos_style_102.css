@@ -39,6 +39,26 @@
     color: #3F82F8;
 }
 
+.material-icons.l1 {
+    font-size: 48px;
+    color: #3F82F8;
+}
+
+.material-icons.l2 {
+    font-size: 28px;
+    color: #3F82F8;
+}
+
+.material-icons.l3_add {
+    font-size: 18px;
+    color: #249A41;
+}
+
+.material-icons.l3_sub {
+    font-size: 18px;
+    color: #D6030F;
+}
+
 .l1_icon {
     display: table-cell;
     width: 15%;
