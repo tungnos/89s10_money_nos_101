@@ -17,8 +17,11 @@
 
 .card_number, .card_text {
     font-family: 'Saira';
-    text-align: left;
-}
+    }
+
+.card_number, .card_text, .card_button {
+    font-family: 'Saira';
+    }
 
 .material-icons.card_icon {
     font-size: 48px;
@@ -26,7 +29,7 @@
 }
 
 .material-icons.card_button_icon {
-    font-size: 20px;
+    font-size: 50%;
     vertical-align: baseline;
 }
 
@@ -36,7 +39,7 @@
 }
 
 .card_text, .card_button {
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .card_icon {
@@ -47,8 +50,11 @@
 }
 
 .card_button {
+    padding: 0% 15%;
     border: none;
-    height: 26px;
+    height: 52px;
+    width: 200px;
+    border-radius: 26px;
     background-color: #3F82F8;
     color: #ffffff;
     text-align: center;
