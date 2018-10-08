@@ -8,16 +8,11 @@
     margin: 0px;
     padding: 5px 20px;
     width: 344px;
-    text-align: center;
     align-items: center;
 }
 .card_info {
     width: 70%;
 }
-
-.card_number, .card_text {
-    font-family: 'Saira';
-    }
 
 .card_number, .card_text, .card_button {
     font-family: 'Saira';
@@ -46,6 +41,7 @@
     flex-grow: 1;
     font-size: 48px;
     height: 100%;
+    text-align: center;
     color: #3F82F8;
 }
 
