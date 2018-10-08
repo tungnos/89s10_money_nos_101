@@ -1,6 +1,6 @@
 .card, .card_info, .card_number, .card_text, .card_icon {
-    border: 1px solid black;
-    /* border: none; */
+/*     border: 1px solid black; */
+    border: none;
 }
 
 .card {
