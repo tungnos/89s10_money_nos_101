@@ -1,6 +1,6 @@
 .card, .card_info, .card_number, .card_text, .card_icon {
-/*     border: 1px solid black; */
-    border: none;
+    border: 1px solid black;
+    /* border: none; */
 }
 
 .card {
@@ -25,14 +25,18 @@
     vertical-align: middle;
 }
 
+.material-icons.card_button_icon {
+    font-size: 20px;
+    vertical-align: baseline;
+}
+
 .card_number {
     font-size: 48px;
     vertical-align: bottom;
 }
 
-.card_text {
+.card_text, .card_button {
     font-size: 24px;
-    vertical-align: top;
 }
 
 .card_icon {
@@ -40,4 +44,12 @@
     font-size: 48px;
     height: 100%;
     color: #3F82F8;
+}
+
+.card_button {
+    border: none;
+    height: 26px;
+    background-color: #3F82F8;
+    color: #ffffff;
+    text-align: center;
 }
