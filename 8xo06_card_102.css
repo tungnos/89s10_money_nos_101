@@ -1,4 +1,4 @@
-.card, .card_info, .card_number, .card_text, .card_icon {
+.card, .card_info, .card_number, .card_text, .card_icon, table.user, table.user td, table.user th{
     border: 1px solid black;
     /* border: none; */
 }
@@ -55,7 +55,7 @@ a, .card_number, .card_text, .card_button {
     text-align: center;
 }
 
-table.log, table.log th, table.log td {
+table.log, table.log th, table.log td, table.user td {
     font-family: 'Saira';
     font-size: 12px;
     /* border-collapse: collapse; */
@@ -85,6 +85,20 @@ table.log th {
 table.log td {
     text-align: left;
 }
+
+table.user {
+    width: 100%;
+}
+
+table.user th {
+    padding-top: 10%;
+    padding-bottom: 8%;
+}
+
+table.user td {
+    padding: 0.4%;
+    text-align: center;
+}	
 
 .ava {
     border-radius: 50%;
