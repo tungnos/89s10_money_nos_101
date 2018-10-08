@@ -38,7 +38,7 @@
     vertical-align: bottom;
 }
 
-.card_text, .card_button {
+.card_text {
     font-size: 20px;
 }
 
@@ -52,10 +52,41 @@
 .card_button {
     padding: 0% 15%;
     border: none;
-    height: 52px;
-    width: 200px;
+    height: 26px;
+    width: 120px;
     border-radius: 26px;
     background-color: #3F82F8;
     color: #ffffff;
+    font-size: 12px;
     text-align: center;
+}
+
+table.log, table.log th, table.log td {
+    font-family: 'Saira';
+    font-size: 12px;
+    /* border-collapse: collapse; */
+    /* border: 1px solid black; */
+    border: none;
+}
+
+table.log {
+    width: 100%;
+    font-size: 100%;
+}
+
+table.log tr:nth-child(even) {
+    background-color: #eeeeee;
+}
+
+table.log tr:nth-child(odd) {
+    background-color: #fbfbfb;
+}
+
+table.log th {
+	background-color: #1abc9c;
+    color: #ffffff;
+}
+
+table.log td {
+    text-align: left;
 }
