@@ -20,12 +20,10 @@
 
 .material-icons.card_icon {
     font-size: 48px;
-    vertical-align: middle;
 }
 
 .material-icons.card_button_icon {
     font-size: 50%;
-    vertical-align: baseline;
 }
 
 .card_number {
@@ -81,6 +79,7 @@ table.log tr:nth-child(odd) {
 table.log th {
 	background-color: #1abc9c;
     color: #ffffff;
+    text-align: left;
 }
 
 table.log td {
