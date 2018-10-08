@@ -14,7 +14,7 @@
     width: 70%;
 }
 
-.card_number, .card_text, .card_button {
+a, .card_number, .card_text, .card_button {
     font-family: 'Saira';
     }
 
