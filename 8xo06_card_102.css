@@ -63,7 +63,7 @@ table.log, table.log th, table.log td, table.user td, table.tour, table.tour td,
     border: none;
 }
 
-table.log {
+table.log, table.tour {
     width: 100%;
     font-size: 100%;
 }
