@@ -55,7 +55,7 @@ a, .card_number, .card_text, .card_button {
     text-align: center;
 }
 
-table.log, table.log th, table.log td, table.user td {
+table.log, table.log th, table.log td, table.user td, table.tour, table.tour td, table.tour th {
     font-family: 'Saira';
     font-size: 12px;
     /* border-collapse: collapse; */
