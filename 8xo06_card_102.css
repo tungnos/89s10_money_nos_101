@@ -79,10 +79,9 @@ table.log tr:nth-child(odd) {
 table.log th {
 	background-color: #1abc9c;
     color: #ffffff;
-    text-align: left;
 }
 
-table.log td, table.tour th, table.tour td {
+table.log td, table.log th, table.tour th, table.tour td {
     text-align: left;
 }
 
