@@ -9,6 +9,7 @@
     padding: 5px 20px;
     width: 344px;
     align-items: center;
+    justify-items: center;
 }
 .card_info {
     width: 70%;
