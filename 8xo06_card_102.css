@@ -82,7 +82,7 @@ table.log th {
     text-align: left;
 }
 
-table.log td {
+table.log td, table.tour th, table.tour td {
     text-align: left;
 }
 
